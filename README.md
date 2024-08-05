@@ -26,7 +26,7 @@ The ProjetWebSemenatique is an interactive application that provides information
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone github.com/nesrinenesrine/ProjetWebSemenatique
+   github.com/nesrinenesrine/ProjetWebSemenatique
     ```
 
 2. Navigate to the project directory:
